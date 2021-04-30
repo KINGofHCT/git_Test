@@ -3,3 +3,5 @@ git TEST
 변경합니다
 
 뭐가 변경이 된거야 ㅋㅋ 
+
+check uncommited changes
